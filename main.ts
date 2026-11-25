@@ -1,3 +1,4 @@
+// Replies queue up politely while the inbox learns patience on its own.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
